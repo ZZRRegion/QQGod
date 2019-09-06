@@ -1,0 +1,13 @@
+[0906/223952.231:INFO:CONSOLE(719)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_67a0787.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (719)
+[0906/223952.232:INFO:CONSOLE(719)] "A parser-blocking, cross site (i.e. different eTLD+1) script, https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_67a0787.js, is invoked via document.write. The network request for this script MAY be blocked by the browser in this or a future page load due to poor network connectivity. If blocked in this page load, it will be confirmed in a subsequent console message. See https://www.chromestatus.com/feature/5718547946799104 for more details.", source: https://www.baidu.com/ (719)
+[0906/223952.270:INFO:CONSOLE(181)] "你在电脑前看这段文字，
+写文字的人在百度等你。
+N年前你来到了这个世界，
+N年后你想改变世界。
+
+期待你脚踏祥云，
+与百度一起改变世界。
+", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_67a0787.js (181)
+[0906/223952.270:INFO:CONSOLE(181)] "%c百度2020校园招聘简历提交：http://dwz.cn/XpoFdepe", source: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/global/js/all_async_search_67a0787.js (181)
+[0906/223959.066:ERROR:browser_process_sub_thread.cc(221)] Waited 15 ms for network service
+[0906/224108.706:INFO:CONSOLE(4)] "开始拉取二维码:", source: https://imgcache.qq.com/ptlogin/ver/19081313/js/c_login_2.js?max_age=604800&ptui_identifier=000D13A121ED5942A14D3D055F65F94941847187CAAE8709E2C2D263 (4)
